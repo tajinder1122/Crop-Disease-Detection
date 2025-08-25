@@ -1,0 +1,11 @@
+State,Crop,Rainfall,Area,Fertilizer,Temperature,Lint Yield (Pounds/Harvested Acre)
+Texas,Cotton,500,120,80,30,800
+Texas,Cotton,600,150,90,32,950
+California,Cotton,450,100,85,28,700
+California,Cotton,700,180,100,31,1100
+Georgia,Cotton,550,140,88,29,870
+Georgia,Cotton,480,110,70,27,750
+Arizona,Cotton,650,160,95,34,1020
+Arizona,Cotton,400,90,65,26,650
+Mississippi,Cotton,520,130,78,30,890
+Mississippi,Cotton,580,145,92,33,970
