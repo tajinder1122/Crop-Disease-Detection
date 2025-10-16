@@ -89,5 +89,3 @@ Visual comparison of actual vs. predicted yields revealed that Gradient Boosting
 - Incorporate **IoT sensor data** (temperature, humidity, soil moisture) for real-time prediction.  
 - Develop a **web or mobile application** to deliver actionable insights to farmers.  
 - Explore **advanced ensemble models** such as **XGBoost** and **LightGBM** for scalability and enhanced performance.
-
----License**.  
